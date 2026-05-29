@@ -106,7 +106,7 @@ Threading – non‑blocking fetches
 Zipfile – on‑the‑fly ZIP creation
 
 # 📜 License
-MIT / GPL-3.0 (you choose – original script has no license block, but it’s open. I’d recommend MIT for simplicity).
+MIT / GPL-3.0 
 
 text
 MIT License – use freely, modify, share. No warranty.
