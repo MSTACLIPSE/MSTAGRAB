@@ -65,8 +65,7 @@ Select files → click the checkbox column or press SPACE on a file.
 
 Download → press ENTER (or click the green button) → saves a ZIP with your chosen files.
 
-https://via.placeholder.com/800x400?text=MSTAGRABBER+in+action
-(Screenshot placeholder — imagine a purple TK window with repo list and file tree.)
+
 
 # ⚙️ GUI Controls
 Key / Button	Action
